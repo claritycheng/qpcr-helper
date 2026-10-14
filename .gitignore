@@ -1,0 +1,8 @@
+*.exe
+*.zip
+*.qpcrlic
+*.key
+*.pem
+.env*
+__pycache__/
+private-build/
